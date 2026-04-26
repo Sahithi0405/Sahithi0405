@@ -8,7 +8,10 @@
 <h1 align="center">Hi I'm Sahithi G</h1>
 
 # 💫 About Me:
-I’m currently working on data-driven business operations and designing prototype dashboards to demonstrate operational insights<br>Learning and deepening my expertise in business intelligence with Power BI, as well as data manipulation using SQL and Python.<br>I’m looking to collaborate on end-to-end analytics pipelines, exploratory data analysis, and translating raw data into actionable business intelligence.<br>Ask me about SQL queries, Power BI dashboarding, Python data cleaning, or operations management  — always up for a good tech discussion!
+- I’m currently working on data-driven business operations and designing prototype dashboards to demonstrate operational insights
+- Learning and deepening my expertise in business intelligence with Power BI, as well as data manipulation using SQL and Python.
+- I’m looking to collaborate on end-to-end analytics pipelines, exploratory data analysis, and translating raw data into actionable business intelligence.
+- Ask me about SQL queries, Power BI dashboarding, Python data cleaning, or operations management, always up for a good tech discussion!
 
 
 ## 🌐 Socials:
